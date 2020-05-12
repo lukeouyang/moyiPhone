@@ -25,7 +25,7 @@ BEM 设计模式
 	font-size: 20px;
 	color: #07111b;
 	text-indent: 50px;
-	background: url('../img/logo2.png') left center no-repeat;
+	background: url('../img/logo.png') left center no-repeat;
 	background-size: 38px 38px;
 	position: absolute;
 	top: 50%;
@@ -189,11 +189,10 @@ BEM 设计模式
 }
 /*第三屏*/
 .screen-3{
-	background-color: red;
 	height: 800px;
 	position: relative;
 	overflow: hidden;
-	background:url(../img/bg-screen-3.png) no-repeat center;
+	background: red url(../img/bg-screen-3.png) no-repeat center;
 	background-size: cover;
 }
 
@@ -388,7 +387,7 @@ BEM 设计模式
 	transition: all .5s;
 }
 .screen-buy__button:hover{
-	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	box-shadow: 0 0 10px rgba(0,0,0,.5);
 }
 
 
@@ -407,9 +406,9 @@ BEM 设计模式
     padding: 5px 10px;
     bottom: 120px;
     right: 0;
-    z-index: 1;
+    /*z-index: 1;*/
     background-color: #fff;
-    box-shadow: 0px 4px 12px 0px rgba(7, 17, 27, 0.1);
+    box-shadow: 0 4px 12px 0 rgba(7, 17, 27, 0.1);
     z-index: 3;
 }
 
@@ -420,7 +419,7 @@ BEM 设计模式
     line-height: 30px;
     padding: 5px 0;
     background: rgb(255,255,255);
-    margin: 5px 0px 0px;
+    margin: 5px 0 0;
     border-top: 1px solid #eee;
     text-align: center;
     color: #93999f;
@@ -442,11 +441,11 @@ BEM 设计模式
 
 .header__nav-tip{
 	position: absolute;
-	width: 30px;
+	width: 44px;
 	margin-left: 40px;
 	height: 2px;
 	background: #f00;
 	left: 0;
-	bottom: 0px;
+	bottom: 0;
 	transition:  all .5s;
 }

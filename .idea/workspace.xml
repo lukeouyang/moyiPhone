@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb8d84ec-0190-46cc-b132-79f27ab814d3" name="Default Changelist" comment="" />
+    <list default="true" id="bb8d84ec-0190-46cc-b132-79f27ab814d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../moyiPhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../moyiPhone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moyiPhone/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../moyiPhone/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moyiPhone/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../moyiPhone/js/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../moyiPhone" />
+  </component>
   <component name="ProjectId" id="1bmPL7seU3wHXRjU61DCujAZLAw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -54,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589234236535</updated>
-      <workItem from="1589234237912" duration="17187000" />
+      <workItem from="1589234237912" duration="19204000" />
     </task>
     <servers />
   </component>
@@ -66,9 +74,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589239787013" />
-    <state x="630" y="303" key="Github.ShareDialog" timestamp="1589277789959">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1589277864933">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="630" y="303" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1589277789959" />
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589277864933" />
+    <state x="630" y="303" key="Github.ShareDialog" timestamp="1589278008486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="630" y="303" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1589278008486" />
   </component>
 </project>
