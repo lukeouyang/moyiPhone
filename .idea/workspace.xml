@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb8d84ec-0190-46cc-b132-79f27ab814d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../moyiPhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../moyiPhone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moyiPhone/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../moyiPhone/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../moyiPhone/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../moyiPhone/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589234236535</updated>
-      <workItem from="1589234237912" duration="19204000" />
+      <workItem from="1589234237912" duration="19678000" />
     </task>
     <servers />
   </component>

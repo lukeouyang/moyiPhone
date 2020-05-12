@@ -121,7 +121,7 @@ const switchNavItemsActive = function (idx) {
 
   }
   addCls(navItems[idx], 'header__nav-item_status_active');
-  navTip.style.left = (idx * 70) + 'px';
+  navTip.style.left = (idx * 76) + 'px';
 
 
   for (i = 0; i < outLineItems.length; i++) {
