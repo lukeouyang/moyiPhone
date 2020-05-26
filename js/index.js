@@ -110,7 +110,7 @@ const navItems = getAllElem('.header__nav-item');
 const outLineItems = getAllElem('.outline__item');
 
 
-// 滑动门
+// floating menu
 const navTip = getElem('.header__nav-tip');
 const switchNavItemsActive = function (idx) {
   let i;

@@ -1,9 +1,10 @@
 /*
-BEM 设计模式
+BEM design pattern
 
-模块（没有前缀，多个单词用 - 连接）
-元素（元素在模块之后，可以有多个层级，以 __ 连接）
-修饰（某元素、或者某模块特别的状态，必须有一个状态名和状态值，使用 _ 链接）
+1. Module (no prefix, multiple words are connected with -)
+2. Elements (elements follow the module and can have multiple levels, connected by __)
+3. Modification (an element or a particular state of a module must have a state name and state value,
+	use _ to connect to its prefix)
 
 */
 
@@ -82,7 +83,7 @@ BEM 设计模式
 	padding: 0;
 }
 
-/*第一屏*/
+/* Section 1: display of product */
 .screen-1{
 	height: 800px;
 	position: relative;
@@ -123,7 +124,7 @@ BEM 设计模式
 	z-index: 1;
 	opacity: .8;
 }
-/*第二屏*/
+/* Section 2: selling point*/
 .screen-2{
 	background-color: #fafafa;
 	height: 800px;
@@ -187,7 +188,7 @@ BEM 设计模式
 	top: 330px;
 	right: -22px;
 }
-/*第三屏*/
+/* Section 3: Tech info */
 .screen-3{
 	height: 800px;
 	position: relative;
@@ -255,7 +256,7 @@ BEM 设计模式
 	line-height: 14px;
 }
 
-/*第四屏*/
+/* Section 4: collection of finishes */
 .screen-4{
 	background-color: #ffffff;
 	height: 800px;
@@ -333,7 +334,7 @@ BEM 设计模式
 	position: absolute;	
 	bottom: -66px;
 }
-/*第五屏*/
+/* Section 5: use case */
 .screen-5{
 	height: 800px;
 	position: relative;
@@ -364,7 +365,8 @@ BEM 设计模式
 	padding-top: 25px;
 	line-height: 28px;
 }
-/*立即购买*/
+
+/* Instant order */
 .screen-buy{
 	height: 80px;
 	padding: 120px 0;
@@ -400,7 +402,7 @@ BEM 设计模式
 	background-color: #07111b;
 }
 
-/*大纲样式*/
+/* Layout */
 .outline {
     position: fixed;
     padding: 5px 10px;

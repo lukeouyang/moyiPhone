@@ -1,3 +1,5 @@
+/* Screen 1 animation */
+
 .screen-1__shadow,
 .screen-1__phone,
 .screen-1__heading{
@@ -23,7 +25,8 @@
 	opacity: 0;
 	transform: translate(0,100%);
 }
-/*第二屏动画*/
+
+/* Screen 2 animation */
 
 
 .screen-2__subheading,
@@ -72,7 +75,7 @@
 	transform: translate(100%,0);
 }
 
-/*第三屏动画*/
+/* Screen 3 animation */
 .screen-3__features,
 .screen-3__subheading,
 .screen-3__phone,
@@ -113,7 +116,8 @@
 	transform: scale(1.1);
 	border-color: #fff;
 }
-/*第四屏动画*/
+
+/* Screen 4 animation */
 .screen-4__subheading,
 .screen-4__heading{
 	transition: all 1s;
@@ -158,7 +162,7 @@
 	opacity: 1;
 }
 
-/*第5屏动画*/
+/* Screen 5 animation */
 
 .screen-5__bg,
 .screen-5__subheading,
@@ -178,7 +182,7 @@
 
 
 
-/*定义帧动画*/
+/* key frames */
 @-webkit-keyframes bounce {
 	0%,100% {
 		transform: scale(0);
@@ -188,7 +192,7 @@
 	}
 
 }
-/*使用帧动画*/
+/* Screen 2 use of keyframes */
 .screen-2__point:before,
 .screen-2__point:after{
 	content: ' ';
@@ -211,7 +215,7 @@
 	left: 252px;
 }
 
-/*导航条样式变动*/
+/*Navbar status change related*/
 .header{
 	transition: all 1s;
 }
